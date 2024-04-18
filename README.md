@@ -24,6 +24,7 @@ Tailor the POS system to your business needs with customizable settings for taxe
 **Prerequisites**
 Microsoft Access installed on your system
 Basic understanding of database management
+
 **Installation**
 Clone or download this repository to your local machine.
 Open the POS database file in Microsoft Access.
