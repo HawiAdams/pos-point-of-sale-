@@ -21,11 +21,13 @@ Seamlessly integrate payment methods such as cash, credit/debit cards, and mobil
 Tailor the POS system to your business needs with customizable settings for taxes, discounts, promotions, and more.
 
 **Getting Started**
+
 **Prerequisites**
 Microsoft Access installed on your system
 Basic understanding of database management
 
 **Installation**
+
 Clone or download this repository to your local machine.
 Open the POS database file in Microsoft Access.
 Explore the various forms, queries, and reports to familiarize yourself with the system.
@@ -34,5 +36,7 @@ Login: Use the provided credentials to access the POS system.
 Add Products: Populate your inventory by adding products with details like name, price, and quantity.
 Process Sales: Select products, apply discounts if applicable, and process payments seamlessly.
 Generate Reports: Analyze sales data, inventory levels, and customer insights using the built-in reporting features.
-Contributing
+
+**Contributing
+**
 We welcome contributions to enhance and improve our POS system. Feel free to fork the repository, make changes, and submit pull requests.
